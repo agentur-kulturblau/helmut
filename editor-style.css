@@ -1,0 +1,255 @@
+/*
+Theme Name: Baylys
+Description: Used to style the TinyMCE editor.
+*/
+
+* {
+	color: inherit;
+	font-family: 'Open Sans', sans-serif;
+	font-size:17px;
+	font-style: inherit;
+	line-height: 1.7;
+}
+body {
+	color: #000;
+	font-family: 'Open Sans', sans-serif;
+	font-size:17px;
+	font-weight: normal;
+	line-height: 1.7;
+}
+
+/* --- Headlines --- */
+h1, h2, h3, h4, h5, h6 {
+	color:#000;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:bold;
+	text-rendering: optimizeLegibility;
+}
+h1 {
+	margin: 1.4em 0 1em;
+	font-size:26px;
+}
+h2 {
+	margin: 1.2em 0 0.5em;
+	font-size:23px;
+}
+h3 {
+	margin: 1em 0 0.4em;
+	font-size:21px;
+}
+h4 {
+	margin: 8em 0 0.3em;
+	font-size: 18x;
+}
+h5 {
+	margin: 0.6em 0 0.2em;
+	font-size:16px;
+}
+h6 {
+	margin: 0.6em 0 0.2em;
+	font-size: 14x;
+}
+
+/* --- Text Elements --- */
+p {
+	margin: 0 0 35px;
+	font-family: 'Open Sans', sans-serif;
+	line-height:1.7;
+}
+p strong {
+	font-weight: bold !important;
+}
+em {
+	font-style: italic;
+}
+p small {
+	font-size: .8em;
+}
+blockquote {
+	margin:0 0 30px;
+}
+blockquote blockquote {
+	margin:10px 0 0;
+}
+blockquote p {
+	margin: 0;
+	font-size:1.1em;
+	font-style:italic;
+	line-height:1.5 !important;
+}
+blockquote p cite {
+	margin:20px 0 0 0;
+	display:inline-block;
+	font-size:.75em;
+	font-style:normal;
+}
+blockquote p cite:before {
+	content:"\2212 \0020";
+}
+blockquote.pull {
+	margin: 0 0 1.4em;
+	text-align: center;
+	border:none;
+}
+blockquote.pull.alignleft {
+	width: 50%;
+	margin: 0 1.4em 0.5em 0;
+	padding:0;
+	float:left;
+	display:inline;
+	font-size:1.15em;
+	text-align: right;
+}
+blockquote.pull.alignright {
+	width: 50%;
+	margin: 0 0 0.5em 1.4em;
+	padding:0;
+	float:right;
+	display:inline;
+	font-size:1.15em;
+	text-align: left;
+}
+pre {
+	font-family: monospace;
+	font-size: 1.2em;
+}
+address{
+	padding:0 0 30px; 
+	line-height:1.7;
+}
+abbr,acronym {
+	border-bottom:.1em dotted;
+}
+/* --- Images --- */
+img, .page img {
+	max-width:100%;
+	height: auto;
+	margin: 0;
+	padding: 0;
+}
+img[class*="wp-image-"] {
+	height: auto;
+	max-width: 97.5%;
+}
+img.size-full {
+	width: auto; /* Prevent stretching of full-size images in IE8 */
+}
+img.wp-smiley {
+	border: none;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 0;
+}
+p img,
+.wp-caption {
+	margin-top: 0.4em;
+}
+.wp-caption {
+	border: none;
+	text-align: center;
+	background-color: #fff;
+	-webkit-border-radius:0;
+	border-radius: 0;
+}
+.wp-caption-dd {
+	font-size: 14px;
+	line-height: 17px;
+	padding: 15px 0 15px;
+	font-style:italic;
+	text-align:center;
+}
+img {
+	border: none;
+}
+img.alignleft,
+img.alignright,
+img.aligncenter {
+	margin-bottom: 1.625em;
+}
+.wp-caption {
+	width:auto !important;
+	max-width: 100%;
+	text-align: left;
+}
+.wp-caption .wp-caption-text {
+	margin: 0;
+	padding: 8px 0 10px;
+	font-size:.85em;
+}
+/* --- Tables --- */
+table {
+	width: 100%;
+	margin:10px 0 30px;
+	font-family: sans-serif;
+}
+table thead {
+	border-top:1px solid #ececec;
+}
+table tr {
+	border-bottom:1px solid #ececec;
+}
+table tr th {
+	padding: 10px 12px;
+	border-top:1px solid #ececec;
+	border-left:1px solid #ececec;
+	border-right:1px solid #ececec;
+	font-weight:bold;
+	text-align:left;
+}
+table tr td {
+	padding: 10px 12px;
+	border-left:1px solid #ececec;
+	border-right:1px solid #ececec;
+}
+
+/* --- List Elements --- */
+ol {
+	list-style:  decimal;
+	margin:0 0 30px 20px;
+}
+ul {
+    list-style: disc;
+	 margin:0 0 30px 20px;
+}
+ol ol,
+ul ul {
+	 margin:0 0 0 20px;
+}
+ul li,
+ol li {
+	display: list-item;
+	margin: 0;
+	padding: 0;
+	line-height:1.8;
+}
+/* --- Links --- */
+a,
+a em,
+a strong {
+	color: #00CA4C;
+	font-weight:bold;
+	text-decoration:none;
+}
+a:focus,
+a:active,
+a:hover {
+	text-decoration: none;
+	color:#909090;
+}
+/* --- Alignment --- */
+.alignleft {
+	display: inline;
+	float: left;
+	margin-right: 1.625em;
+}
+.alignright {
+	display: inline;
+	float: right;
+	margin-left: 1.625em;
+}
+.aligncenter {
+	clear: both;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}

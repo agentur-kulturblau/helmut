@@ -1,0 +1,974 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Baylys v1.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-12-07 10:47+0100\n"
+"Last-Translator: Marcos Díaz Rodríguez <mcdiazrod@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ baylys
+#: 404.php:16
+msgid "Not Found"
+msgstr "No encontrado"
+
+# @ baylys
+#: 404.php:20
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+"Lo sentimos, pero la página solicitada no se pudo encontrar. Tal vez la "
+"búsqueda le será de ayuda."
+
+# @ baylys
+#: content-single.php:29 content.php:43
+msgid "Pages:"
+msgstr "Páginas:"
+
+# @ baylys
+#: comments.php:12
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Esta entrada está protegida. Introduzca la contraseña para ver los "
+"comentarios."
+
+# @ baylys
+#: content-aside.php:13 content-audio.php:13 content-chat.php:13
+#: content-gallery.php:13 content-image.php:13 content-portfolio.php:17
+#: content-video.php:13 content.php:13
+#, php-format
+msgid "Permalink to %s"
+msgstr "Enlace permanente a %s"
+
+# @ baylys
+#: functions.php:74
+msgid "Primary Navigation"
+msgstr "Primary Navigation"
+
+# @ baylys
+#: functions.php:212
+#, php-format
+msgid "Page %s"
+msgstr "Página %s"
+
+# @ baylys
+#: functions.php:303
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+# @ baylys
+#: functions.php:317
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está a la espera de ser moderado."
+
+# @ baylys
+#: archive.php:78 search.php:33
+msgid "Nothing Found"
+msgstr "No se ha encontrado"
+
+# @ baylys
+#: search.php:36
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo sentimos, pero no encontramos nada que corresponda con sus criterios de "
+"búsqueda. Por favor, inténtelo de nuevo con algunas palabras clave "
+"diferentes."
+
+# @ baylys
+#: functions.php:634 functions.php:729 functions.php:798 functions.php:1099
+msgid "Title:"
+msgstr "Título:"
+
+# @ baylys
+#: inc/theme-options.php:63 inc/theme-options.php:64
+msgid "Theme Options"
+msgstr "Opciones del Tema"
+
+# @ baylys
+#: inc/theme-options.php:139
+#, php-format
+msgid "%s Theme Options"
+msgstr "%s Opciones del Tema"
+
+# @ baylys
+#: inc/theme-options.php:153
+msgid "Link Color"
+msgstr "Color del Link"
+
+# @ baylys
+#: functions.php:302
+msgid "Reply"
+msgstr "Responder"
+
+# @ baylys
+#: functions.php:654
+msgid "Number of photos:"
+msgstr "Número de fotos:"
+
+# @ baylys
+#: functions.php:665
+msgid "User"
+msgstr "Usuario"
+
+# @ baylys
+#: functions.php:666
+msgid "Group"
+msgstr "Grupo"
+
+# @ baylys
+#: functions.php:670
+msgid "Show latest or random pictures:"
+msgstr "Mostrar imágenes más recientes al azar:"
+
+# @ baylys
+#: functions.php:672
+msgid "Latest"
+msgstr "Último"
+
+# @ baylys
+#: functions.php:673
+msgid "Random"
+msgstr "Al azar"
+
+# @ baylys
+#: functions.php:663
+msgid "Choose user or group:"
+msgstr "Elegir un usuario o grupo:"
+
+# @ baylys
+#: functions.php:639
+msgid ""
+"Flickr ID (<a href=\"http://www.idgettr.com\" target=\"_blank\">idGettr</a>):"
+msgstr ""
+"Flickr ID (<a href=\"http://www.idgettr.com\" target=\"_blank\">idGettr</a>):"
+
+# @ baylys
+#: inc/theme-options.php:214
+msgid "Custom Logo image"
+msgstr "Imagen personalizada para el logotipo"
+
+# @ baylys
+#: inc/theme-options.php:260 inc/theme-options.php:262
+msgid "Custom Favicon"
+msgstr "Favicon personalizado"
+
+# @ baylys
+#: inc/theme-options.php:232
+msgid "Custom Footer text"
+msgstr "Texto personalizado para el pie"
+
+# @ baylys
+#: inc/theme-options.php:234
+msgid "Customize the footer credit text. Standard HTML is allowed."
+msgstr ""
+"Personalizar el texto para los créditos del pie de la página. HTML estándar "
+"permitido."
+
+# @ baylys
+#: content-aside.php:18 content-audio.php:17 content-chat.php:17
+#: content-gallery.php:17 content-image.php:17 content-link.php:15
+#: content-quote.php:15 content-single.php:17 content-status.php:15
+#: content-video.php:17 content.php:17 image.php:33
+msgid "0 comments"
+msgstr "0 comentarios"
+
+# @ baylys
+#: content-aside.php:18 content-audio.php:17 content-chat.php:17
+#: content-gallery.php:17 content-image.php:17 content-link.php:15
+#: content-quote.php:15 content-single.php:17 content-status.php:15
+#: content-video.php:17 content.php:17 image.php:33
+msgid "% comments"
+msgstr "%  comentarios"
+
+# @ baylys
+#. translators: 1: date, 2: time
+#: functions.php:307
+#, php-format
+msgid "%1$s &#64; %2$s"
+msgstr "%1$s &#64; %2$s"
+
+# @ baylys
+#: functions.php:644
+msgid "Flickr Profile Link Text:"
+msgstr "Texto para el Link del Flickr-Profil Link:"
+
+# @ baylys
+#: functions.php:649
+msgid "Flickr Profile URL:"
+msgstr "Flickr-Profil URL:"
+
+# @ baylys
+#: functions.php:803
+msgid "Video embed code:"
+msgstr "Código para insertar vídeo:"
+
+# @ baylys
+#: footer.php:28
+msgid "WordPress"
+msgstr "WordPress"
+
+# @ baylys
+#: content-single.php:53
+#, php-format
+msgid "Posted by %s"
+msgstr "Publicado por %s"
+
+# @ baylys
+#: inc/theme-options.php:212
+msgid "Custom Logo"
+msgstr "Logotipo personalizado"
+
+# @ baylys
+#: inc/theme-options.php:284 inc/theme-options.php:286
+msgid "Share option for posts"
+msgstr "Opciones para compartir para publicaciones"
+
+# @ baylys
+#: inc/theme-options.php:302 inc/theme-options.php:304
+msgid "Share option for pages"
+msgstr "Opciones para compartir para páginas"
+
+# @ baylys
+#: share.php:12
+msgid "Tweet"
+msgstr "Twitter"
+
+# @ baylys
+#: inc/theme-options.php:216 inc/theme-options.php:273
+msgid "WordPress Media Uploader"
+msgstr "WordPress Cargador de Medios"
+
+# @ baylys
+#: functions.php:331
+msgid "<span>Pingback:</span>"
+msgstr "<span>Pingback:</span>"
+
+# @ baylys
+#: inc/theme-options.php:216
+msgid "Upload your own logo image using the "
+msgstr "Cargue su propia imagen de logotipo utilizando la"
+
+# @ baylys
+#: inc/theme-options.php:151
+msgid "Custom Link Color"
+msgstr "Color personalizado para los Links"
+
+# @ baylys
+#: comments.php:48
+msgid "&larr;  Older Comments"
+msgstr "&larr;  Comentarios anteriores"
+
+# @ baylys
+#: comments.php:49
+msgid "Newer Comments  &rarr;"
+msgstr "Comentarios más recientes  &rarr;"
+
+# @ baylys
+#: inc/theme-options.php:216
+msgid ". Then copy your logo image file URL and insert the URL here."
+msgstr ""
+". A continuación copia la URL del fichero que contenga la imagen de tu logo "
+"e insertala aquí."
+
+# @ baylys
+#: inc/theme-options.php:269 inc/theme-options.php:271
+msgid "Custom Apple Touch Icon"
+msgstr "Iconco personalizado para Apple Touch"
+
+# @ baylys
+#: inc/theme-options.php:273
+msgid ""
+"Create a <strong>128x128px png</strong> image for your webclip icon. Upload "
+"your image using the "
+msgstr ""
+"Creado a <strong>128x128px png</strong> imagen para el icono WebClip. Sube "
+"tu imagen con el "
+
+# @ baylys
+#: inc/theme-options.php:273
+msgid ". Now copy the image file URL and insert the URL here."
+msgstr ""
+". Ahora copia la URL del fichero que contenga la imagen de tu logo e "
+"insertala aquí."
+
+# @ baylys
+#: inc/theme-options.php:306
+msgid "Check this box to also include the share buttons on pages."
+msgstr ""
+"Marque esta casilla para incluir también los botones de compartir en las "
+"páginas."
+
+# @ baylys
+#: footer.php:28
+msgid "Proudly powered by"
+msgstr "Funciona gracias a"
+
+# @ baylys
+#: footer.php:29
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr "Tema: %1$s von %2$s"
+
+# @ baylys
+#: header.php:60
+msgid "Menu"
+msgstr "Menú"
+
+# @ baylys
+#: archive.php:20
+#, php-format
+msgid "Posts in Category &lsquo;%s&rsquo;"
+msgstr "Publicaciones de la Categoría  &lsquo;%s&rsquo;"
+
+# @ baylys
+#: archive.php:23
+#, php-format
+msgid "Posts Tagged &lsquo;%s&rsquo;"
+msgstr "Publicaciones con la Etiqueta &lsquo;%s&rsquo;"
+
+# @ baylys
+#: archive.php:27
+#, php-format
+msgid "All Posts by %s"
+msgstr "Todas las publicaciones de %s"
+
+# @ baylys
+#: archive.php:31
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Archivo Diarios: %s"
+
+# @ baylys
+#: archive.php:34
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Archivo Mensual: %s"
+
+# @ baylys
+#: archive.php:37
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Archivo Anual: %s"
+
+# @ baylys
+#: archive.php:40
+msgid "Archives"
+msgstr "Archivos"
+
+# @ baylys
+#: archive.php:82
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que no puede encontrar lo que estás buscando. La búsqueda puede "
+"ayudar."
+
+# @ baylys
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: comments.php:29 content-aside.php:18 content-audio.php:17
+#: content-chat.php:17 content-gallery.php:17 content-image.php:17
+#: content-link.php:15 content-quote.php:15 content-single.php:17
+#: content-status.php:15 content-video.php:17 content.php:17 image.php:33
+#, php-format
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] "1 comentario"
+msgstr[1] "%1$s comentarios"
+
+# @ baylys
+#: footer.php:28
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+# @ baylys
+#: functions.php:75
+msgid "Footer Navigation (no sub menus supported)"
+msgstr "Navegación en el pie de la página (no soporta sub-menús)"
+
+# @ baylys
+#: functions.php:1104
+msgid "Twitter URL:"
+msgstr "Twitter URL:"
+
+# @ baylys
+#: functions.php:1109
+msgid "Facebook URL:"
+msgstr "Facebook URL:"
+
+# @ baylys
+#: functions.php:1114
+msgid "Google+ URL:"
+msgstr "Google+ URL:"
+
+# @ baylys
+#: functions.php:1119
+msgid "Flickr URL:"
+msgstr "Flickr URL:"
+
+# @ baylys
+#: functions.php:1129
+msgid "Picasa URL:"
+msgstr "Picasa URL:"
+
+# @ baylys
+#: functions.php:1134
+msgid "500px URL:"
+msgstr "500px URL:"
+
+# @ baylys
+#: functions.php:1139
+msgid "YouTube URL:"
+msgstr "YouTube URL:"
+
+# @ baylys
+#: functions.php:1144
+msgid "Vimeo URL:"
+msgstr "Vimeo URL:"
+
+# @ baylys
+#: functions.php:1149
+msgid "Dribbble URL:"
+msgstr "Dribbble URL:"
+
+# @ baylys
+#: functions.php:1154
+msgid "Ffffound URL:"
+msgstr "Ffffound URL:"
+
+# @ baylys
+#: functions.php:1159
+msgid "Pinterest URL:"
+msgstr "Pinterest URL:"
+
+# @ baylys
+#: functions.php:1164
+msgid "Behance Network URL:"
+msgstr "Behance Network URL:"
+
+# @ baylys
+#: functions.php:1169
+msgid "deviantART URL:"
+msgstr "deviantART URL:"
+
+# @ baylys
+#: functions.php:1174
+msgid "Squidoo URL:"
+msgstr "Squidoo URL:"
+
+# @ baylys
+#: functions.php:1179
+msgid "Slideshare URL:"
+msgstr "Slideshare URL:"
+
+# @ baylys
+#: functions.php:1184
+msgid "Last.fm URL:"
+msgstr "Last.fm URL:"
+
+# @ baylys
+#: functions.php:1189
+msgid "Grooveshark URL:"
+msgstr "Grooveshark URL:"
+
+# @ baylys
+#: functions.php:1194
+msgid "Soundcloud URL:"
+msgstr "Soundcloud URL:"
+
+# @ baylys
+#: functions.php:1199
+msgid "Foursquare URL:"
+msgstr "Foursquare URL:"
+
+# @ baylys
+#: functions.php:1204
+msgid "GitHub URL:"
+msgstr "GitHub URL:"
+
+# @ baylys
+#: functions.php:1209
+msgid "Linkedin URL:"
+msgstr "Linkedin URL:"
+
+# @ baylys
+#: functions.php:1214
+msgid "Xing URL:"
+msgstr "Xing URL:"
+
+# @ baylys
+#: functions.php:1219
+msgid "WordPress URL:"
+msgstr "WordPress URL:"
+
+# @ baylys
+#: functions.php:1224
+msgid "Tumblr URL:"
+msgstr "Tumblr URL:"
+
+# @ baylys
+#: functions.php:1229
+msgid "RSS-Feed URL:"
+msgstr "RSS-Feed URL:"
+
+# @ baylys
+#: functions.php:1234
+msgid "RSS for Comments URL:"
+msgstr "RSS para URL de Comentarios:"
+
+# @ baylys
+#: functions.php:1239
+msgid "Open all links in a new browser tab"
+msgstr "Abrir todos los Links en una nueva pestaña del navegador"
+
+# @ baylys
+#: inc/theme-options.php:230
+msgid "Custom Footer Text"
+msgstr "Texto personalizado para el pie"
+
+# @ baylys
+#: inc/theme-options.php:288
+msgid ""
+"Check this box to include share buttons (for Twitter, Facebook, Google+) on "
+"your blogs front page and on single post pages."
+msgstr ""
+"Marque esta casilla para incluír botones de acciones (para Twitter, "
+"Facebook, Google+) en su página de inicio para tus blogs y en páginas "
+"posteriores."
+
+# @ baylys
+#: search.php:17
+#, php-format
+msgid "Search Results for &lsquo;%s&rsquo;"
+msgstr "Resultados de la búsqueda &lsquo;%s&rsquo;"
+
+# @ baylys
+#: searchform.php:11
+msgid "Search"
+msgstr "Buscar"
+
+# @ baylys
+#: comments.php:32
+msgid "Write a comment"
+msgstr "Escribir un comentario"
+
+# @ baylys
+#: footer.php:36
+msgid "Top"
+msgstr "Superior"
+
+# @ baylys
+#: content-aside.php:19 content-audio.php:18 content-chat.php:18
+#: content-gallery.php:18 content-image.php:18 content-link.php:16
+#: content-quote.php:16 content-single.php:18 content-status.php:16
+#: content-video.php:18 content.php:18 functions.php:311 functions.php:332
+#: image.php:34
+msgid "Edit"
+msgstr "Editar"
+
+# @ baylys
+#: functions.php:593
+msgid "Baylys Flickr"
+msgstr "Baylys Flickr"
+
+# @ baylys
+#: functions.php:691
+msgid "Baylys About"
+msgstr "Acerca de Baylys"
+
+# @ baylys
+#: functions.php:734
+msgid "Image URL:"
+msgstr "Bild URL:"
+
+# @ baylys
+#: functions.php:749
+msgid "About Text:"
+msgstr "About Text:"
+
+# @ baylys
+#: functions.php:768
+msgid "Baylys Featured Video"
+msgstr "Video del día de Baylys "
+
+# @ baylys
+#: functions.php:822
+msgid "Baylys Social Links"
+msgstr "Baylys Social Links"
+
+# @ baylys
+#: inc/theme-options.php:150
+msgid "Custom Colors"
+msgstr "Colores personalizados"
+
+# @ baylys
+#: inc/theme-options.php:221 inc/theme-options.php:223
+msgid "Post Excerpts"
+msgstr "Publica Extractos"
+
+# @ baylys
+#: inc/theme-options.php:258
+msgid "Favicon and Apple Touch Icon"
+msgstr "Favicon y Apple Touch Icon"
+
+# @ baylys
+#: inc/theme-options.php:282
+msgid "Share Buttons"
+msgstr "Botones para compartir"
+
+# @ baylys
+#: inc/theme-options.php:315
+msgid "Responsive Slider"
+msgstr "Responsive Slider"
+
+# @ baylys
+#: inc/theme-options.php:317 inc/theme-options.php:319
+msgid "Include Responsive Slider"
+msgstr "Integrar Responsive Slider"
+
+# @ baylys
+#: inc/theme-options.php:321
+msgid ""
+"Check this box to inlcude the Responsive Slider WordPress-Plugin below the "
+"blog title in the header section of your front page(this can either be your "
+"blog or a static page, see Settings/Reading)."
+msgstr ""
+"Marque esta casilla para que se incluya el Plugin Responsive Slider debajo "
+"del título del blog en la sección de encabezado de la primera página (esto "
+"puede ser para una entrad de  blog o una página estática, consulte "
+"Configuración / lectura)."
+
+# @ baylys
+#: functions.php:739
+msgid "Image Width (only value, no px):"
+msgstr "Ancho Imagen (sólo valor, no px):"
+
+# @ baylys
+#: functions.php:744
+msgid "Image Height (only value, no px):"
+msgstr "Alto Imagen (sólo valor, no px):"
+
+# @ baylys
+#: comments.php:74
+msgctxt "noun"
+msgid "Message <span class=\"required\">(required)</span>"
+msgstr "Mensaje <span class=\"required\">(necesario)</span>"
+
+# @ baylys
+#: comments.php:75
+msgid "Send"
+msgstr "Enviar"
+
+# @ baylys
+#: functions.php:1124
+msgid "Instagram URL:"
+msgstr "Instagram URL:"
+
+# @ baylys
+#: image.php:22
+#, php-format
+msgid ""
+"<li time class=\"entry-date\">%2$s</li> at <a href=\"%3$s\" title=\"Link to "
+"full-size image\">%4$s &times; %5$s px</a> in <a href=\"%6$s\" title="
+"\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+"<li time class=\"entry-date\">%2$s</li> at <a href=\"%3$s\" title=\"Link to "
+"full-size image\">%4$s &times; %5$s px</a> in <a href=\"%6$s\" title="
+"\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+
+# @ baylys
+#: image.php:85
+msgid "&laquo; Previous Image"
+msgstr "&laquo; Imagen anterior"
+
+# @ baylys
+#: image.php:86
+msgid "Next Image &raquo;"
+msgstr "Imagen siguiente &raquo;"
+
+# @ baylys
+#: inc/theme-options.php:264
+msgid ""
+"Create a <strong>16x16px</strong> image and generate a .ico favicon using a "
+"favicon online generator (e.g. <a href=\"http://www.faviconr.com/\" target="
+"\"_blank\">Faviconr</a>). Now upload your favicon to your themes folder (via "
+"FTP) and enter your Favicon URL here (the URL path should be similar to: "
+"yourdomain.com/wp-content/themes/baylys/favicon.ico)."
+msgstr ""
+"Crear la imagen de <strong>16x16px</strong> y generar un favicon .ico "
+"utilizando un generador online de favicon  (ej. <a href=\"http://www."
+"faviconr.com/\" target=\"_blank\">Faviconr</a>). Ahora sube tu favion a tu "
+"carpeta del tema correspondiente (via FTP) e introduce la URL del Favicon "
+"aquí (el path para la URL debería ser parecida a: tudominio.com/wp-content/"
+"themes/baylys/favicon.ico)."
+
+# @ baylys
+#: searchform.php:10
+msgid "Search ..."
+msgstr "Buscar ..."
+
+# @ baylys
+#: single.php:24
+msgid "Next Post &raquo;"
+msgstr "Siguiente Publicación &raquo;"
+
+# @ baylys
+#: single.php:25
+msgid "&laquo; Previous Post"
+msgstr "&laquo; Anterior Publicación"
+
+# @ baylys
+#: comments.php:69
+msgid "Website"
+msgstr "Sitio Web"
+
+# @ baylys
+#: content-aside.php:25 content-audio.php:24 content-chat.php:24
+#: content-gallery.php:24 content-image.php:23 content-link.php:21
+#: content-quote.php:21 content-status.php:21 content-video.php:24
+#: content.php:40 functions.php:242
+msgid "Read more"
+msgstr "Leer más"
+
+# @ baylys
+#: content-single.php:34
+msgid "Posted in:"
+msgstr "Publicado por:"
+
+# @ baylys
+#: content-single.php:37
+msgid "Tagged:"
+msgstr "Etiquetado como:"
+
+# @ baylys
+#: functions.php:125
+msgid "Summer"
+msgstr "Verano"
+
+# @ baylys
+#: functions.php:140
+msgid "Cactus"
+msgstr "Cactus"
+
+# @ baylys
+#: functions.php:130
+msgid "Boats"
+msgstr "Barcos"
+
+# @ baylys
+#: functions.php:135
+msgid "Sand"
+msgstr "Areba"
+
+# @ baylys
+#: functions.php:346
+msgid "Main Sidebar"
+msgstr "Barra Lateral Principal"
+
+# @ baylys
+#: functions.php:348
+msgid "Widgets will appear in the main sidebar on posts and pages."
+msgstr ""
+"Widgets que aparecerán en la barra lateral principal de mensajes y páginas."
+
+# @ baylys
+#: functions.php:356
+msgid "Footer Column 1"
+msgstr "Columna 1 del Pie"
+
+# @ baylys
+#: functions.php:358
+msgid ""
+"Widgets will appear in the first column of the optional 4-column footer "
+"widget area."
+msgstr ""
+"Widgets que aparecerán en la primera columna de la columna-4 opcional del "
+"área para los widgets del pie."
+
+# @ baylys
+#: functions.php:366
+msgid "Footer Column 2"
+msgstr "Columna 2 del Pie"
+
+# @ baylys
+#: functions.php:368
+msgid ""
+"Widgets will appear in the second column of the optional 4-column footer "
+"widget area."
+msgstr ""
+"Widgets que aparecerán en la segunda columna de la columna-4 opcional del "
+"área para los widgets del pie."
+
+# @ baylys
+#: functions.php:376
+msgid "Footer Column 3"
+msgstr "Columna 3 del Pie"
+
+# @ baylys
+#: functions.php:378
+msgid ""
+"Widgets will appear in the third column of the optional 4-column footer "
+"widget area."
+msgstr ""
+"Widgets que aparecerán en la tercera columna de la columna-4 opcional del "
+"área para los widgets del pie."
+
+# @ baylys
+#: functions.php:386
+msgid "Footer Column 4"
+msgstr "Columna 4 del Pie"
+
+# @ baylys
+#: functions.php:388
+msgid ""
+"Widgets will appear in the fourth column of the optional 4-column footer "
+"widget area."
+msgstr ""
+"Widgets que aparecerán en la cuarta columna de la columna-4 opcional del "
+"área para los widgets del pie."
+
+# @ baylys
+#: functions.php:410
+msgid "&laquo; Older Posts"
+msgstr "&laquo; Publicaciones Anteriores"
+
+# @ baylys
+#: functions.php:411
+msgid "Newer Posts &raquo;"
+msgstr "Publicaciones Recientes &raquo;"
+
+# @ baylys
+#: inc/theme-options.php:80
+msgid "Sidebar right"
+msgstr "Barra Lateral Derecha"
+
+# @ baylys
+#: inc/theme-options.php:85
+msgid "Sidebar left"
+msgstr "Barra Lateral Izquierda"
+
+# @ baylys
+#: inc/theme-options.php:90
+msgid "One-column"
+msgstr "De una columna"
+
+# @ baylys
+#: inc/theme-options.php:157
+#, php-format
+msgid ""
+"Choose your custom link color, the default link color is: %s. Do not forget "
+"to include the # before the color value."
+msgstr ""
+"Elige color para personalizar el enlace, el color de los enlaces por defecto "
+"es:% s. No se olvide de incluír el # antes del valor de color."
+
+# @ baylys
+#: inc/theme-options.php:162 inc/theme-options.php:164
+msgid "Custom Link Hover Color"
+msgstr "Color personlizado para el Link seleccionado"
+
+# @ baylys
+#: inc/theme-options.php:168
+#, php-format
+msgid ""
+"Choose your custom link hover color, the default link hover color is: %s."
+msgstr ""
+"Elige el color personalizado para el Link cuando esté seleccionados, el "
+"color por defecto es: %s."
+
+# @ baylys
+#: inc/theme-options.php:173 inc/theme-options.php:175
+msgid "Custom Footer Background Color"
+msgstr "Elige el color para el Fondo del Pie"
+
+# @ baylys
+#: inc/theme-options.php:179
+#, php-format
+msgid "Choose your custom footer background color, the default color is: %s."
+msgstr ""
+"Elige el color personalizado para el Fondo del Pie, el color por defecto es: "
+"%s."
+
+# @ baylys
+#: inc/theme-options.php:186
+msgid "Layout Options"
+msgstr "Opciones de Diseño"
+
+# @ baylys
+#: inc/theme-options.php:187 inc/theme-options.php:189
+msgid "Sidebar Placement"
+msgstr "Colocación de la Barra Lateral"
+
+# @ baylys
+#: inc/theme-options.php:211
+msgid "Logo, Post Excerpts and Footer Text"
+msgstr "Logo, Extractos de Publicacione y  texto del Pie"
+
+# @ baylys
+#: inc/theme-options.php:225
+msgid ""
+"Check this box to show automatic post excerpts. With this option you will "
+"not need to add the more tag in posts."
+msgstr ""
+"Marque esta casilla para mostrar extractos automáticos de correos. Con esta "
+"opción usted no tendrá que añadir la etiqueta en más puestos de trabajo."
+
+# @ baylys
+#: inc/theme-options.php:293 inc/theme-options.php:295
+msgid "Share option on single posts only"
+msgstr "Opciones de compartir sólo publicacions individuales "
+
+# @ baylys
+#: inc/theme-options.php:297
+msgid ""
+"Check this box to include the share post buttons <strong>only</strong> on "
+"single posts (below the post content)."
+msgstr ""
+"Marque esta casilla para incluír los botones \"Compartir Publicación\" "
+"<strong> sólo </ strong> en mensajes individuales (por debajo del contenido "
+"de la publicación)."
+
+# @ baylys
+#: inc/theme-options.php:243
+msgid "Portfolio Category"
+msgstr "Categoría Portfolio"
+
+# @ baylys
+#: inc/theme-options.php:245 inc/theme-options.php:247
+msgid "Choose your Portfolio Category"
+msgstr "Elige tu Categoría de Portafolio"
+
+# @ baylys
+#: inc/theme-options.php:249
+msgid ""
+"Type in the category slug of the category you want to use as your portfolio "
+"category (You will find the slug in Posts/Categories)."
+msgstr ""
+"Escriba en la categoría slug de la categoría que desea utilizar como su "
+"categoría de portfolio (Va a encontrar el slug en Publicaciones / "
+"Categorías)."
+
+# @ baylys
+#: comments.php:65
+msgid "Name (required)"
+msgstr "Nombre (Necesario)"
+
+# @ baylys
+#: comments.php:67
+msgid "Email (required)"
+msgstr "Email (Necesario)"
